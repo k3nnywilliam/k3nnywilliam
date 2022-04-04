@@ -5,4 +5,4 @@
 
 You can contact me via <a href="mailto:k3nnywilliam@gmail.com" >email</a>!
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=k3nnywilliam)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=k3nnywilliam&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
