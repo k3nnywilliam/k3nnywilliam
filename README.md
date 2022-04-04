@@ -14,7 +14,9 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=k3nnywilliam&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-![Coderrank](https://cr-skills-chart-widget.azurewebsites.net/api/api?username=k3nnywilliam)
+![Codersrank](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=k3nnywilliam)
+
+![Codersrank](https://cr-skills-chart-widget.azurewebsites.net/api/api?username=k3nnywilliam)
 
 
 You can contact me via <a href="mailto:k3nnywilliam@gmail.com" >email</a>!
