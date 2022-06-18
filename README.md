@@ -3,9 +3,9 @@
 - 💼 Software developer | Interested in nutrition, food security, healthcare, augmented reality and data visualization
 - ⚡ Fun fact: I belong to a native tribe called Iban in Malaysia and I used to be a 3D artist 🧑‍🎨
 
-### Current tech stacks
-- Python, Javascript
-- HTML, CSS, React, Vue, Bootstrap, Tailwind
+### Current tech stack
+- Python, R, Javascript
+- HTML, CSS, R Shiny, React, Vue, Bootstrap, Tailwind
 - Node, NextJS
 
 #### OS
