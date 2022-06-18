@@ -1,6 +1,6 @@
 ## Hi I'm Kenny 👋
 
-- 💼 Software developer | Interested in nutrition, food security, healthcare, augmented reality and data visualization
+- 💼 Senior software engineer | Interested in nutrition, food security, healthcare, augmented reality and data visualization
 - ⚡ Fun fact: I belong to a native tribe called Iban in Malaysia and I used to be a 3D artist 🧑‍🎨
 
 ### Current tech stack
