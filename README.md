@@ -1,12 +1,13 @@
 ## Hi I'm Kenny 👋
 
-- 💼 Senior software engineer | Interested in nutrition, food security, healthcare, augmented reality and data visualization
+- 💼 Senior software engineer | Interested in data science/analytics/visualization, machine learning. Also interested in the domains of public health, nutrition, food security and healthcare.
 - ⚡ Fun fact: I belong to a native tribe called Iban in Malaysia and I used to be a 3D artist 🧑‍🎨
 
 ### Current tech stack
 - Python, R, Javascript
 - HTML, CSS, R Shiny, React, Vue, Bootstrap, Tailwind
 - Node, NextJS
+- Docker, Jenkins, Git
 
 #### OS
 - Mac, Linux, Windows
