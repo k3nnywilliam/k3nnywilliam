@@ -1,16 +1,11 @@
-## Hi I'm Kenny 👋
+## Hello, I'm Kenny from Malaysia 👋
 
-- 💼 Senior software engineer | Interested in data science/analytics/visualization, machine learning. Also interested in the domains of public health, nutrition, food security and healthcare.
-- ⚡ Fun fact: I belong to a native tribe called Iban in Malaysia and I used to be a 3D artist 🧑‍🎨
+- 💼 Senior software engineer | Interested in data science/analytics/visualization, machine learning. Also interested in the domains of genomics, nutrition, food security and healthcare.
 
 ### Current tech stack
-- Python, R, Javascript
-- HTML, CSS, R Shiny, React, Vue, Bootstrap, Tailwind
-- Node, NextJS
-- Docker, Jenkins, Git
-
-#### OS
-- Mac, Linux, Windows
+- Programming Languages: Python, R, Javascript, C++, SQL, HTML, CSS
+- Web App Frameworks: Shiny, Streamlit, Dash, React, Vue, Bootstrap, Tailwind
+- Database: MS SQL, MongoDB, Snowflake
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=k3nnywilliam&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
