@@ -2,7 +2,7 @@
 
 # WELCOME
 
-My name is Kenny William and I am a senior full-stack developer with more than a decade of experience in domains such as augmented reality, data visualization and more recently, becoming R/Shiny developer with a data analytics and AI team at a renowned semiconductor company.
+Kenny is a Full-Stack Developer and DevOps Engineer with over 10 years of experience delivering scalable web applications, AI/ML solutions, and automated deployment pipelines. Proficient in React, Shiny, Python, R, and C++, he has designed and implemented data-driven dashboards, computer vision systems, and real-time recognition platforms for clients worldwide. He holds a Master’s in Information Technology from the University of South Australia and has completed professional certifications in AI and data science, combining academic expertise with practical engineering to deliver reliable, future-ready solutions.
 
 ## Interests:
 - Software development
@@ -10,9 +10,10 @@ My name is Kenny William and I am a senior full-stack developer with more than a
 - Data science, data analytics, machine learning, AI
 
 ## Current tech stack
-- Programming Languages: Python, R, Javascript, C/C++, SQL, HTML, CSS
+- Programming Languages: Python, R, JS, C/C++, SQL, HTML, CSS
 - Web App Frameworks: Shiny, Streamlit, React, Vue, Bootstrap, Tailwind
-- CI/CD: Jenkins, Docker, Nginx
+- CI/CD: Jenkins, Nginx
+- DevOps: Kubernetes, Docker, Helm, Traefik
 - Database: MS SQL, MongoDB, Snowflake
 
 Follow me on [X](https://x.com/) and [LinkedIn](https://www.linkedin.com/in/kennyallau/)
