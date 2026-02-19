@@ -5,7 +5,7 @@
 </div>
 
 
-Kenny is a Full-Stack Developer and DevOps Engineer with close over 10 years of experience delivering scalable web applications, backend systems and automated deployment pipelines. Proficient in Python, R, JavaScript, and many more, he has designed and implemented data-driven dashboards, computer vision systems, and real-time recognition platforms for clients worldwide. He holds a Master’s in Information Technology from the University of South Australia and has completed professional certifications in AI and data science, combining academic expertise with practical engineering to deliver reliable, future-ready solutions.
+Hi, my name is Kenny, I'm a Full-Stack Developer and Systems Architect with over 10 years of experience delivering scalable web applications, backend systems and automated deployment pipelines. Proficient in Python, R, JavaScript, and many more, I have  designed and implemented data-driven dashboards, computer vision systems, and real-time recognition platforms for clients worldwide. Holds a Master’s in Information Technology from the University of South Australia and has completed professional certifications in AI and data science, combining academic expertise with practical engineering to deliver reliable, future-ready solutions.
 
 
 ## Interests:
